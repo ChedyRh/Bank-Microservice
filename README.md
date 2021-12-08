@@ -3,5 +3,6 @@ It's a part of a school group project where we developed an app for a restaurant
 
 The microservice was developed using the following technologies:
 - SpringBoot
-- MySQL
+- MySQL.
+
 The frontend was devoloped with Angular.
